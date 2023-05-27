@@ -1,0 +1,11 @@
+@import "/node_modules/@fortawesome/fontawesome-free/css/all.css";
+
+.icons{
+    position: relative;
+    bottom: -100px;
+}
+.links{
+    position: relative;
+    bottom: -115px;
+}
+
